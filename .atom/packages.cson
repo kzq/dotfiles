@@ -1,6 +1,7 @@
 packages: [
   "atom-beautify"
   "atom-css-comb"
+  "atom-eclipse-syntax"
   "atom-prettify"
   "busy-signal"
   "cucumber"

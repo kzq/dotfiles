@@ -9,7 +9,7 @@
     telemetryConsent: "no"
     themes: [
       "one-light-ui"
-      "railscast-theme"
+      "atom-light-syntax"
     ]
   editor:
     confirmCheckoutHeadRevision: false
