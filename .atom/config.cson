@@ -1,0 +1,18 @@
+"*":
+  core:
+    audioBeep: false
+    projectHome: "/home/kamran/Dropbox/Dashboard/workspace"
+    telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "railscast-theme"
+    ]
+  editor:
+    confirmCheckoutHeadRevision: false
+    fontSize: 16
+    preferredLineLength: 800
+  "exception-reporting":
+    userId: "a1b277f7-bb08-4971-b5b9-afa39b4adff6"
+  minimap: {}
+  welcome:
+    showOnStartup: false
