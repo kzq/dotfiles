@@ -5,6 +5,17 @@
       default_beautifier: "Ruby Beautify"
   core:
     audioBeep: false
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      ".sublime*"
+    ]
+    openEmptyEditorOnStart: false
     projectHome: "/home/kamran/Dropbox/Dashboard/workspace"
     telemetryConsent: "no"
     themes: [
@@ -24,6 +35,9 @@
   "package-sync":
     createOnChange: true
     forceOverwrite: true
+  "tree-view":
+    hideIgnoredNames: true
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
   whitespace:
