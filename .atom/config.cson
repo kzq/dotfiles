@@ -14,5 +14,8 @@
   "exception-reporting":
     userId: "a1b277f7-bb08-4971-b5b9-afa39b4adff6"
   minimap: {}
+  "package-sync":
+    createOnChange: true
+    forceOverwrite: true
   welcome:
     showOnStartup: false
