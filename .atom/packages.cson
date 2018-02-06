@@ -1,6 +1,7 @@
 packages: [
   "atom-beautify"
   "atom-css-comb"
+  "atom-prettify"
   "busy-signal"
   "cucumber"
   "cucumber-step"
@@ -8,7 +9,6 @@ packages: [
   "language-docker"
   "language-rspec"
   "linter"
-  "linter-rubocop"
   "linter-ruby"
   "linter-ui-default"
   "minimap"

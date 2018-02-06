@@ -1,4 +1,8 @@
 "*":
+  "atom-beautify":
+    ruby:
+      beautify_on_save: true
+      default_beautifier: "Ruby Beautify"
   core:
     audioBeep: false
     projectHome: "/home/kamran/Dropbox/Dashboard/workspace"
@@ -13,6 +17,9 @@
     preferredLineLength: 800
   "exception-reporting":
     userId: "a1b277f7-bb08-4971-b5b9-afa39b4adff6"
+  "linter-rubocop":
+    command: "/home/kamran/.asdf/shims/bundle exec rubocop --config rubocop.yml"
+    disableWhenNoConfigFile: true
   minimap: {}
   "package-sync":
     createOnChange: true
