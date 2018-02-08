@@ -6,6 +6,7 @@ packages: [
   "busy-signal"
   "cucumber"
   "cucumber-step"
+  "custom-title"
   "intentions"
   "language-docker"
   "language-rspec"

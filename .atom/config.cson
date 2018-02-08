@@ -2,9 +2,12 @@
   "atom-beautify":
     ruby:
       beautify_on_save: true
-      default_beautifier: "Ruby Beautify"
+      rubocop_path: "bundle exec rubocop"
   core:
     audioBeep: false
+    disabledPackages: [
+      "atom-beautify"
+    ]
     ignoredNames: [
       ".git"
       ".hg"
@@ -22,12 +25,15 @@
       "one-light-ui"
       "atom-light-syntax"
     ]
+  "custom-title":
+    template: "<%= fileName %> <% if (projectName) { %> - <%= projectName %> <% } %>"
   editor:
     confirmCheckoutHeadRevision: false
     fontSize: 16
     preferredLineLength: 800
   "exception-reporting":
     userId: "a1b277f7-bb08-4971-b5b9-afa39b4adff6"
+  linter: {}
   "linter-rubocop":
     command: "/home/kamran/.asdf/shims/bundle exec rubocop --config rubocop.yml"
     disableWhenNoConfigFile: true
@@ -35,6 +41,8 @@
   "package-sync":
     createOnChange: true
     forceOverwrite: true
+  "project-manager":
+    showPath: false
   "project-plus":
     projectHome: "/home/kamran/Dropbox/Dashboard/workspace"
     showPath: true
