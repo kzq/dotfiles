@@ -11,4 +11,16 @@
       "/home/kamran/Dropbox/Dashboard/workspace/dttemp"
     ]
   }
+  {
+    title: "daily-cash-register"
+    paths: [
+      "/home/kamran/Dropbox/Dashboard/workspace/daily-cash-register"
+    ]
+  }
+  {
+    title: "substance-api"
+    paths: [
+      "/home/kamran/Dropbox/Dashboard/workspace/substance-api"
+    ]
+  }
 ]
