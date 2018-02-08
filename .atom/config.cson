@@ -35,6 +35,9 @@
   "package-sync":
     createOnChange: true
     forceOverwrite: true
+  "project-plus":
+    projectHome: "/home/kamran/Dropbox/Dashboard/workspace"
+    showPath: true
   "tree-view":
     hideIgnoredNames: true
     hideVcsIgnoredFiles: true
