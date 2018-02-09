@@ -20,5 +20,6 @@ packages: [
   "railscast-theme"
   "ruby-test"
   "Sublime-Style-Column-Selection"
+  "teletype"
   "trailing-spaces"
 ]
