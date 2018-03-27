@@ -46,6 +46,7 @@
   "project-plus":
     projectHome: "/home/kamran/Dropbox/Dashboard/workspace"
     showPath: true
+  script: {}
   "tree-view":
     hideIgnoredNames: true
     hideVcsIgnoredFiles: true

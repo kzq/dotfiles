@@ -19,6 +19,7 @@ packages: [
   "project-plus"
   "railscast-theme"
   "ruby-test"
+  "script"
   "Sublime-Style-Column-Selection"
   "teletype"
   "trailing-spaces"
