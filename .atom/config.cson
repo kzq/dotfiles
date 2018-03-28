@@ -37,6 +37,8 @@
   "linter-rubocop":
     command: "/home/kamran/.asdf/shims/bundle exec rubocop --config rubocop.yml"
     disableWhenNoConfigFile: true
+  "linter-ui-default":
+    showPanel: true
   minimap: {}
   "package-sync":
     createOnChange: true

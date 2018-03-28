@@ -15,6 +15,7 @@ packages: [
   "linter-ui-default"
   "minimap"
   "package-sync"
+  "platformio-ide-terminal"
   "project-manager"
   "project-plus"
   "railscast-theme"
