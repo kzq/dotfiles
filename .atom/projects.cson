@@ -41,4 +41,10 @@
       "/home/kamran/Dropbox/Dashboard/workspace/dashboardtechnology"
     ]
   }
+  {
+    title: "rails -apps"
+    paths: [
+      "/home/kamran/Dropbox/Dashboard/workspace/rails-apps"
+    ]
+  }
 ]
